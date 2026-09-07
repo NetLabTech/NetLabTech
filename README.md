@@ -2,6 +2,8 @@
 
 < I'm Tim 👋
 
+<a href="https://www.linkedin.com/in/tim-t-ba531030/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"> </a>
+
 I'm a hands-on and technically minded IT enthusiast based in Dublin, Ireland, transitioning from a background in live sound and technical production into IT.
 
 I've recently passed my Cisco CCNA and I'm continuing to build my practical skills through hands-on labs and projects.
@@ -17,6 +19,9 @@ I'm particularly interested in understanding how systems work together — from 
  Current Projects
 Project	What I'm Working On
 Active Directory & Group Policy Lab	Windows Server, Active Directory, DNS, DHCP, OUs, user/computer provisioning, Group Policy and security policies
+
+[View the Active Directory Lab on GitHub](https://github.com/NetLabTech/Azure-Active-Directory-lab)**
+
 Multi-Vendor Network Lab — EVE-NG	Cisco & Juniper virtual networking, routing, switching, VLANs, OSPF, BGP, STP, network segmentation and firewall policies
 Security+ Study & Lab Work	CompTIA Security+ SY0-701, IAM, network security, vulnerabilities, SIEM/logging and incident response fundamentals
 🌐 Networking
