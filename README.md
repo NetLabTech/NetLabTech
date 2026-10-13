@@ -24,13 +24,9 @@ Before IT, I spent several years in sound engineering and live technical work, s
 | Project | What I'm Working On |
 |---|---|
 | **[Azure-Hosted Active Directory Lab](https://github.com/NetLabTech/Azure-Active-Directory-lab)** | Windows Server domain on Azure VMs: Domain Controller, AD DS, DNS, DHCP, OU structure, user/computer provisioning, Group Policy, firewall and RDP policies |
-| **Multi-Vendor Network Lab (EVE-NG)** | Cisco, Juniper and Fortinet virtual networking: routing, switching, VLANs, OSPF, BGP, STP, VRRP, LACP, network segmentation and firewall policies |
+| **Multihomed-BGP-Enterprise-LAB** | Cisco, Juniper and Fortinet virtual networking: routing, switching, firewall policies, VLANs, OSPF, BGP, STP, VRRP, LACP and network segmentation|
 | **Home Network Lab** | Multiple routers, managed switches and access points with VLANs, DNS, DHCP and routing. Ansible for config automation and backups, Tailscale with a Raspberry Pi subnet router for secure remote access |
 | **Security+ Study & Lab Work** | CompTIA Security+ SY0-701: identity and access management, network security, vulnerabilities, SIEM/logging and incident response fundamentals |
-
-## 🌐 Networking
-
-Recently passed Cisco CCNA and continuing to develop my networking skills through hands-on lab work.
 
 `TCP/IP` `Routing & Switching` `VLANs & Subnetting` `OSPF` `BGP` `STP` `DNS & DHCP` `Network Segmentation` `Wi-Fi & Connectivity` `Troubleshooting`
 
