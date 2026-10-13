@@ -6,20 +6,20 @@ I'm a hands-on and technically minded IT enthusiast based in Dublin, Ireland, wi
 
 I recently passed my **Cisco CCNA** and I'm continuing to build my practical skills through hands-on labs and projects. I learn best by actually building things, configuring them, breaking them and figuring out why they stopped working.
 
-## 🎯 Objective
+## Objective
 
 I'm building my career in **IT Support, Networking and Infrastructure**, with a longer-term interest in network security and cybersecurity.
 
 I'm particularly interested in how systems work together, from endpoints and Active Directory through to networks, routing, switching, firewalls and cloud services.
 
-## 💼 Experience
+## Experience
 
 **Wardfall (Managed Service Provider), Remote**
 Provided day-to-day IT support to small-business clients, remotely and on-site. Diagnosed and resolved issues across Microsoft 365, user accounts, devices and connectivity, handled routine maintenance and updates, prioritised incidents through to resolution, and kept clients informed and support documentation up to date.
 
 Before IT, I spent several years in sound engineering and live technical work, setting up, configuring, testing and troubleshooting professional audio systems under pressure. The equipment was different, but the approach is the same: work out what has failed, break the problem down, test methodically and get it working again.
 
-## 🛠️ Current Projects
+## Current Projects
 
 | Project | What I'm Working On |
 |---|---|
@@ -30,25 +30,25 @@ Before IT, I spent several years in sound engineering and live technical work, s
 
 `TCP/IP` `Routing & Switching` `VLANs & Subnetting` `OSPF` `BGP` `STP` `DNS & DHCP` `Network Segmentation` `Wi-Fi & Connectivity` `Troubleshooting`
 
-## 🖥️ Systems & Infrastructure
+## Systems & Infrastructure
 
 `Windows` `Windows Server` `Active Directory` `Group Policy` `DNS` `DHCP` `Microsoft 365` `Azure` `VMware / Virtualisation` `User & Account Management` `Hardware & Software Troubleshooting` `VoIP`
 
-## 🔐 Security
+## Security
 
 I'm currently studying towards **CompTIA Security+** and building practical knowledge around:
 
 `Identity & Access Management` `Network Security` `Security Controls` `Vulnerabilities & Mitigation` `SIEM & Logging` `Secure Network Architecture` `Incident Response Fundamentals`
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Networking:** Cisco · Juniper · EVE-NG · Wireshark
 - **Microsoft:** Windows · Windows Server · Active Directory · Group Policy · Microsoft 365 · Azure
 - **Virtualisation:** VMware · EVE-NG
-- **Automation & Remote Access:** Ansible · Tailscale
+- **Automation & Remote Access:** Ansible · Tailscale/netbrid
 - **Security:** CompTIA Security+ · SIEM / Logging · Network Security
 
-## 📚 How I Learn
+## How I Learn
 
 Most of my IT learning is hands-on. Rather than just reading about a technology, I build a working environment and troubleshoot it myself. My labs are helping me turn the theory from the CCNA and other studies into practical experience, and I document what I learn along the way.
 
