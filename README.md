@@ -9,7 +9,7 @@ I learn best by actually building things, configuring them, breaking them and fi
 
 I'm looking for a role in **cloud, networking or IT infrastructure**, where I can keep learning and take on real technical problems.
 
-I'm particularly interested in how systems work together, from endpoints and Active Directory through to networks, routing, switching, firewalls and cloud services.
+I'm particularly interested in Azure and how cloud services connect with on-premises networks and identity systems like Active Directory.
 
 ## Background
 
